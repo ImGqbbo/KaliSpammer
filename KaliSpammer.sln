@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaliSpammer", "KaliSpammer.csproj", "{4E4B132A-3410-44C2-B8B6-D0AB06FD46C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E4B132A-3410-44C2-B8B6-D0AB06FD46C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4B132A-3410-44C2-B8B6-D0AB06FD46C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4B132A-3410-44C2-B8B6-D0AB06FD46C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4B132A-3410-44C2-B8B6-D0AB06FD46C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E36E24C-41F3-4973-9E85-61B584087F0C}
+	EndGlobalSection
+EndGlobal
